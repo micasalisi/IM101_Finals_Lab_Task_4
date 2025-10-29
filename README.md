@@ -43,22 +43,20 @@ CREATE TABLE `submission` (
 
 ## 2. Table Structure and Creation Screenshots
 
-*(These links assume you have uploaded the files with the simplified names we discussed, using spaces instead of underscores.)*
-
 ### 2.1. Student Table
 | SQL Statement | Empty Table Structure |
 | :---: | :---: |
-| <img src="Student%20CREATE%20Statement.png" width="350"/> | <img src="Student%20Structure.png" width="350"/> |
+| <img src="student_Table_Structure.png width="350"/> | <img src="student_Table_Structure.png" width="350"/> |
 
 ### 2.2. Assignment Table
 | SQL Statement | Empty Table Structure |
 | :---: | :---: |
-| <img src="Assignment%20CREATE%20Statement.png" width="350"/> | <img src="Assignment%20Structure.png" width="350"/> |
+| <img src="assignment_Table_Structure.png" width="350"/> | <img src="assignment_Table_Structure.png" width="350"/> |
 
 ### 2.3. Submission Table
 | SQL Statement | Empty Table Structure |
 | :---: | :---: |
-| <img src="Submission%20CREATE%20Statement.png" width="350"/> | <img src="Submission%20Structure.png" width="350"/> |
+| <img src="assignment_Table_Structure.png" width="350"/> | <img src="submission_Table_Structure.png" width="350"/> |
 
 ---
 
@@ -74,6 +72,6 @@ The visual representation of the final relational schema from the EER tool:
 
 The complete database structure has been exported to the following file, fulfilling Requirement 4:
 
-[Manicdao_KK_Salisi_M-Finals Lab Task 4. Converting an ER into Mysql Database](Manicdao_KK_Salisi_M-Finals%20Lab%20Task%204.%20Converting%20an%20ER%20into%20Mysql%20Database)
+[Manicdao_KK_Salisi_M-Finals Lab Task 4. Converting an ER into Mysql Database](Manicdao_KK_Salisi_M-Finals Lab Task 4. Converting an ER into Mysql Database.sql)
 
 ---
