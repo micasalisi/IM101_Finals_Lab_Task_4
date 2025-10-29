@@ -46,17 +46,17 @@ CREATE TABLE `submission` (
 ### 2.1. Student Table
 | SQL Statement | Empty Table Structure |
 | :---: | :---: |
-| <img src="student_Table_Structure.png width="350"/> | <img src="student_Table_Structure.png" width="350"/> |
+| <img src="student_CREATE_Statement.png" width="350"/> | <img src="student_Table_Structure.png" width="350"/> |
 
 ### 2.2. Assignment Table
 | SQL Statement | Empty Table Structure |
 | :---: | :---: |
-| <img src="assignment_Table_Structure.png" width="350"/> | <img src="assignment_Table_Structure.png" width="350"/> |
+| <img src="assignment_CREATE_Statement.png" width="350"/> | <img src="assignment_Table_Structure.png" width="350"/> |
 
 ### 2.3. Submission Table
 | SQL Statement | Empty Table Structure |
 | :---: | :---: |
-| <img src="assignment_Table_Structure.png" width="350"/> | <img src="submission_Table_Structure.png" width="350"/> |
+| <img src="submission_CREATE_Statement.png" width="350"/> | <img src="submission_Table_Structure.png" width="350"/> |
 
 ---
 
